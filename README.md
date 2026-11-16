@@ -38,7 +38,7 @@ The interface follows the GeoLibre language; English and Indonesian are included
 
 ## Install
 
-**From the zip:** build it (see [Develop](#develop)), then in GeoLibre open *Settings → Manage plugins → Settings → Install from file* and choose `spatial-bi-<version>.zip`.
+**From the zip:** download `spatial-bi-<version>.zip` from the [latest release](https://github.com/ibnusenaaa/geolibre-spatial-bi/releases/latest) (or build it, see [Develop](#develop)), then in GeoLibre open *Settings → Manage plugins → Settings → Install from file* and choose `spatial-bi-<version>.zip`.
 
 **From a manifest URL** (development): run `npm run serve` and add `http://localhost:8098/plugin/plugin.json` under *Settings → Manage plugins → Settings → Manifest URLs*. Safari refuses `http://localhost` from an https page; there, install from the zip, or serve over https (`TLS_KEY=… TLS_CERT=… npm run serve`).
 

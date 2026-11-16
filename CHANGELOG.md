@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1 — 2026-11-16
+- Authors: Ego Ibnu Wijaksena and Defani Arman Alfitriansyah. No change in behaviour.
+- MIT licence; the description names the optional OSRM server.
+
 ## 0.4.0 — 2026-11-16
 - Sites: road distance or travel time from the OSRM server.
 - Fix: *Open Spatial BI* did nothing after a project was loaded with the panel folded on its rail.

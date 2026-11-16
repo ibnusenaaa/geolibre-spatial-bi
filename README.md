@@ -163,4 +163,4 @@ Colour ramps are from ColorBrewer (Brewer, C. A., colorbrewer2.org, Apache Licen
 
 ## License
 
-[MIT](LICENSE) © 2026 Ego Ibnu Wijaksena. The methods belong to the works cited above; this plugin only implements them.
+[MIT](LICENSE) © 2026 [Ego Ibnu Wijaksena](https://github.com/ibnusenaaa) and [Defani Arman Alfitriansyah](https://github.com/Defani). The methods belong to the works cited above; this plugin only implements them.

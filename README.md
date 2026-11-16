@@ -161,6 +161,11 @@ Ord, J. K., & Getis, A. (1995). Local spatial autocorrelation statistics: Distri
 
 Colour ramps are from ColorBrewer (Brewer, C. A., colorbrewer2.org, Apache License 2.0) and viridis (van der Walt & Smith, CC0). Category colours follow Okabe & Ito (2008).
 
+## Authors
+
+- [Ego Ibnu Wijaksena](https://github.com/ibnusenaaa)
+- [Defani Arman Alfitriansyah](https://github.com/Defani)
+
 ## License
 
 [MIT](LICENSE) © 2026 [Ego Ibnu Wijaksena](https://github.com/ibnusenaaa) and [Defani Arman Alfitriansyah](https://github.com/Defani). The methods belong to the works cited above; this plugin only implements them.

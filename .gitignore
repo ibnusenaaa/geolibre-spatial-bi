@@ -1,0 +1,6 @@
+*.zip
+*.zip.sha256
+node_modules/
+docs/images/debug-*.png
+.DS_Store
+CLAUDE.md

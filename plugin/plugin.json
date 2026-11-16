@@ -1,0 +1,12 @@
+{
+  "id": "spatial-bi",
+  "name": "Spatial BI",
+  "version": "0.4.0",
+  "entry": "index.js",
+  "style": "style.css",
+  "description": "Spatial business intelligence for any vector layer: KPI summaries, trends, thematic maps, point-to-zone aggregation, Huff market shares and trade areas, new-outlet site selection and Getis-Ord Gi* hot spots. Road distances are optional and come from an OSRM server you provide.",
+  "author": "Ego Ibnu Wijaksena",
+  "engines": [
+    "maplibre"
+  ]
+}
